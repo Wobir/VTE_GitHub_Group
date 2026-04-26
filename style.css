@@ -35,3 +35,23 @@ p {
   font-size: 14px;
   margin-bottom: 20px;
 }
+.stats {
+  display: flex;
+  justify-content: space-around;
+  border-top: 1px solid #eee;
+  padding-top: 15px;
+  margin-bottom: 20px;
+}
+.stat-item b {
+  display: block;
+  color: #1c1e21;
+}
+.btn-follow {
+            background-color: #1877f2;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            width: 100%;
+            font-weight: bold;
